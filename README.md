@@ -1,8 +1,12 @@
-# Hi there, I'm Kaustubh Sardesai 👋
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=700&size=45&duration=3000&pause=1000&color=FF8C00&center=true&vCenter=true&width=600&height=100&lines=Hi%2C+I'm+Kaustubh+Sardesai+%F0%9F%91%8B;AI+Engineer+%26+Researcher;Building+with+Cloud+%26+AI" alt="Typing SVG" />
+</div>
 
-**AI Engineer & Researcher** | Full-Stack Cloud-Native Developer
+<p align="center">
+  <em>AI Engineer & Researcher | Full-Stack Cloud-Native Developer</em>
+</p>
 
-<p align="left">
+<p align="center">
   <a href="https://linkedin.com/in/kaustubh-sardesai2k5"><img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=FF8C00" /></a>
   <a href="mailto:kaustubh2k5@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=flat-square&logo=gmail&logoColor=FF8C00" /></a>
   <a href="https://kauz-folio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=FF8C00" /></a>
@@ -96,8 +100,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kaustubh2k5&show_icons=true&theme=dark&bg_color=000000&title_color=FF8C00&text_color=ffffff&icon_color=FF8C00&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaustubh2k5&layout=compact&theme=dark&bg_color=000000&title_color=FF8C00&text_color=ffffff&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kaustubh2k5&show_icons=true&theme=dark&bg_color=000000&title_color=FF8C00&text_color=ffffff&icon_color=FF8C00&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaustubh2k5&layout=compact&theme=dark&bg_color=000000&title_color=FF8C00&text_color=ffffff&hide_border=true&langs_count=8" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kaustubh2k5&theme=dark&background=000000&ring=FF8C00&fire=FF8C00&currStreakNum=FF8C00&sideLabels=FF8C00&currStreakLabel=FF8C00&dates=ffffff&stroke=FF8C00&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
