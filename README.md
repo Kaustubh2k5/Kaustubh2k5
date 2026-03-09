@@ -19,7 +19,7 @@
 
 ---
 
-## 🚀 Currently Working On
+## Currently Working On
 
 - **bangalore.now** — Developing new extensions and performance optimizations for the real-time urban intelligence platform
 - **[CodeSaarthi AI](https://www.codesaathiai.in)** — Scaling an agentic platform with AWS Bedrock, DynamoDB, Lambda for repository indexing and graph-based codebase analysis
