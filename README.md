@@ -29,18 +29,59 @@
 
 ## Deployed Projects
 
-| Project | Live Link | Stack Preview |
-|:--------|:----------|:--------------|
-| **CodeSaarthi AI** | [Visit Site](https://www.codesaathiai.in) | `Gemini` `AWS Bedrock` `DynamoDB` `Lambda` `AWS Neptune` `FastAPI` |
-| **NewsMe AI** | [Visit Site](https://newsmeai.xyz) | `Docker` `Python` `NLP` `FastAPI` |
-| **bangalore.now** | *In Development* | `GCP` `Vertex AI` `Vector DB` `Microservices` |
-| **Portfolio** | [View Portfolio](https://kauz-folio.vercel.app) | `React` `Vercel` `Tailwind` |
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### [CodeSaarthi AI](https://www.codesaathiai.in)
+Agentic platform for repository indexing and graph-based codebase analysis
+
+**Stack:** `Gemini` `AWS Bedrock` `DynamoDB` `Lambda` `AWS Neptune` `FastAPI`
+
+[![Visit](https://img.shields.io/badge/Visit_Site-000000?style=for-the-badge&logo=vercel&logoColor=FF8C00)](https://www.codesaathiai.in)
+
+</td>
+<td width="50%" valign="top">
+
+### [NewsMe AI](https://newsmeai.xyz)
+AI-powered personalized newsletter platform serving 200+ weekly users
+
+**Stack:** `Docker` `Python` `NLP` `FastAPI`
+
+[![Visit](https://img.shields.io/badge/Visit_Site-000000?style=for-the-badge&logo=vercel&logoColor=FF8C00)](https://newsmeai.xyz)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### bangalore.now
+Real-time urban intelligence platform with AI-powered insights
+
+**Stack:** `GCP` `Vertex AI` `Vector DB` `Microservices`
+
+![Status](https://img.shields.io/badge/Status-In_Development-FF8C00?style=for-the-badge)
+
+</td>
+<td width="50%" valign="top">
+
+### [Portfolio](https://kauz-folio.vercel.app)
+Personal portfolio showcasing projects and experience
+
+**Stack:** `React` `Vercel` `Tailwind CSS`
+
+[![Visit](https://img.shields.io/badge/View_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=FF8C00)](https://kauz-folio.vercel.app)
+
+</td>
+</tr>
+</table>
 ---
 
 ## Technical skillset
 
-### 🤖 AI & Machine Learning
+### AI & Machine Learning
 <p align="left">
   <img src="https://img.shields.io/badge/PyTorch-000000?style=flat-square&logo=pytorch&logoColor=FF8C00" />
   <img src="https://img.shields.io/badge/TensorFlow-000000?style=flat-square&logo=tensorflow&logoColor=FF8C00" />
@@ -113,7 +154,7 @@
 
 ---
 
-## 🏆 Achievements & Recognition
+## Achievements & Recognition
 
 - 🥇 **Winner** — Breakthrough Innovation Award, Google Cloud Agentic AI Day (July 2025)
 - 📜 **Oracle Cloud Infrastructure 2025 AI Foundations Associate** — Certified in AI/ML on OCI
