@@ -2,7 +2,7 @@
   
 ### 🏆 Winner - Breakthrough Innovation Award | Google Cloud Agentic AI Day 2025
 
-<img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=700&size=45&duration=3000&pause=1000&color=FF8C00&center=true&vCenter=true&width=600&height=100&lines=Hi%2C+I'm+Kaustubh+Sardesai;AI+Engineer+%26+Researcher;Building+with+Cloud+%26+AI" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=700&size=45&duration=3000&pause=1000&color=FF8C00&center=true&vCenter=true&width=600&height=100&lines=Hi%2C+I'm+Kaustubh+Sardesai+!;AI+Engineer+%26+Researcher;Building+with+Cloud+%26+AI" alt="Typing SVG" />
 
 </div>
 
@@ -123,7 +123,7 @@
 
 ---
 
-## 📫 Let's Connect
+<!-- ## 📫 Let's Connect
 
 <p align="left">
   <a href="https://linkedin.com/in/kaustubh-sardesai2k5">
@@ -135,7 +135,7 @@
   <a href="https://kauz-folio.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=FF8C00" />
   </a>
-</p>
+</p> -->
 
 ---
 
