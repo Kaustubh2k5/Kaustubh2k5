@@ -2,12 +2,12 @@
   
 ### 🏆 Winner - Breakthrough Innovation Award | Google Cloud Agentic AI Day 2025
 
-<img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=700&size=45&duration=3000&pause=1000&color=FF8C00&center=true&vCenter=true&width=600&height=100&lines=Hi%2C+I'm+Kaustubh+Sardesai+%F0%9F%91%8B;AI+Engineer+%26+Researcher;Building+with+Cloud+%26+AI" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=700&size=45&duration=3000&pause=1000&color=FF8C00&center=true&vCenter=true&width=600&height=100&lines=Hi%2C+I'm+Kaustubh+Sardesai;AI+Engineer+%26+Researcher;Building+with+Cloud+%26+AI" alt="Typing SVG" />
 
 </div>
 
 <p align="center">
-  <em>AI Engineer & Researcher | Full-Stack Cloud-Native Developer</em>
+  <em>AI Engineer & Researcher | Cloud Developer | DataScience</em>
 </p>
 
 <p align="center">
@@ -103,9 +103,9 @@
 
 ## Stats 
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Kaustubh2k5&show_icons=true&bg_color=000000&title_color=FF8C00&text_color=ffffff&icon_color=FF8C00&hide_border=true" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kaustubh2k5&background=000000&ring=FF8C00&fire=FF8C00&currStreakNum=FF8C00&sideLabels=FF8C00&currStreakLabel=FF8C00&dates=ffffff&stroke=FF8C00&hide_border=true" />
@@ -119,7 +119,7 @@
 - 📜 **Oracle Cloud Infrastructure 2025 AI Foundations Associate** — Certified in AI/ML on OCI
 - 📝 **Research Publication** — Co-authored paper submitted to IEEE Access (under review)
 - 🎓 **Projects Lead** — DataScience Club VITC
-- 👨‍🏫 **Mentor** — Guided 100+ participants in DataScience hackathons and workshops. regularly create content and present on stage
+- 👨‍🏫 **Mentor** — Guided 100+ participants in DataScience hackathons and workshops
 
 ---
 
