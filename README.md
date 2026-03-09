@@ -140,8 +140,6 @@ Personal portfolio showcasing projects and experience
   <img src="https://img.shields.io/badge/Optuna-000000?style=flat-square&logoColor=FF8C00" />
 </p>
 
----
-
 ## Stats 
 
 <!-- <p align="center">
