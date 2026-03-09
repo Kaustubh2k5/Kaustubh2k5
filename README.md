@@ -6,25 +6,34 @@
 
 <p align="center">
   <a href="https://github.com/Kaustubh2k5">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=1000&color=FF8C00&center=true&vCenter=true&width=600&lines=AI+Engineer+%26+Researcher;Full-Stack+Cloud-Native+Dev;Open+Source+Contributor" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF8C00&center=true&vCenter=true&width=600&lines=AI+Engineer+%26+Researcher;Full-Stack+Cloud-Native+Dev;Optimizing+blr.now+Extensions;Building+CodeSaarthi+AI" alt="Typing Animation" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/kaustubh-sardesai2k5"><img src="https://img.shields.io/badge/LinkedIn-1a1a1a?style=for-the-badge&logo=linkedin&logoColor=ff8c00&border=orange" /></a>
-  <a href="mailto:kaustubh2k5@gmail.com"><img src="https://img.shields.io/badge/Email-1a1a1a?style=for-the-badge&logo=gmail&logoColor=ff8c00" /></a>
-  <a href="https://kauz-folio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-1a1a1a?style=for-the-badge&logo=vercel&logoColor=ff8c00" /></a>
+  <a href="https://linkedin.com/in/kaustubh-sardesai2k5"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FF8C00&labelColor=000000" /></a>
+  <a href="mailto:kaustubh2k5@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=FF8C00&labelColor=000000" /></a>
+  <a href="https://kauz-folio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=FF8C00&labelColor=000000" /></a>
 </p>
 
 ---
 
-### 🚀 About Me
+### 🚀 Currently Working On
 
-- 🔭 **Currently Building:** **CodeSaarthiAI** to power repository indexing and graph-based analysis pipelines.
-- [cite_start]🧠 **Research:** Implementing Siamese Neural Networks for EEG-based BCI classification[cite: 7].
-- [cite_start]🏆 **Recognition:** Winner of the Breakthrough Innovation Award at Google Cloud Agentic AI Day for an Autonomous AI Radio Host[cite: 17, 20].
-- [cite_start]☄️ **Open Source:** Active contributor to the **Rocket.Chat** monorepo, focusing on client-server synchronization[cite: 9, 11, 12].
-- ⌨️ **Off-Screen:** Tinkering with ergonomic split keyboards to find the perfect custom thocky sound profile.
+- 🏗️ **bangalore.now:** Developing new extensions and performance optimizations for the real-time urban intelligence platform.
+- 🔍 **[CodeSaarthi AI](https://www.codesaathiai.in):** Scaling an agentic platform for repository indexing and graph-based codebase analysis.
+- 🧠 **BCI Research:** Refining Siamese Neural Networks for EEG-based classification to improve BCI accuracy.
+- 🎹 **Ergo-Mechanicals:** Fine-tuning split keyboard layouts and custom "thocky" switch profiles.
+
+---
+
+### 🌐 Deployed Projects
+
+| Project | Live Link | Stack Preview |
+| :--- | :--- | :--- |
+| **CodeSaarthi AI** | [**Visit Site**](https://www.codesaathiai.in) | `Gemini` `AWS Neptune` `FastAPI` |
+| **NewsMe AI** | [**Visit Site**](https://newsmeai.xyz) | `Docker` `Python` `NLP` |
+| **Kauz-Folio** | [**View Portfolio**](https://kauz-folio.vercel.app) | `React` `Vercel` `Tailwind` |
 
 ---
 
@@ -32,53 +41,45 @@
 
 #### 🤖 Generative AI & LLM Workflows
 <p align="left">
-  <img src="https://img.shields.io/badge/Gemini_APIs-1a1a1a?style=flat-square&logo=google-gemini&logoColor=ff8c00" />
-  <img src="https://img.shields.io/badge/AWS_Bedrock-1a1a1a?style=flat-square&logo=amazon-aws&logoColor=ff8c00" />
-  <img src="https://img.shields.io/badge/LangChain-1a1a1a?style=flat-square&logo=langchain&logoColor=ff8c00" />
-  <img src="https://img.shields.io/badge/Hugging_Face-1a1a1a?style=flat-square&logo=huggingface&logoColor=ff8c00" />
+  <img src="https://img.shields.io/badge/-Gemini-000000?style=flat&logo=google-gemini&logoColor=FF8C00" />
+  <img src="https://img.shields.io/badge/-AWS_Bedrock-000000?style=flat&logo=amazon-aws&logoColor=FF8C00" />
+  <img src="https://img.shields.io/badge/-LangChain-000000?style=flat&logo=langchain&logoColor=FF8C00" />
+  <img src="https://img.shields.io/badge/-Hugging_Face-000000?style=flat&logo=huggingface&logoColor=FF8C00" />
 </p>
 
 #### 👁️ Machine Learning & Vision
 <p align="left">
-  <img src="https://img.shields.io/badge/PyTorch-1a1a1a?style=flat-square&logo=pytorch&logoColor=ff8c00" />
-  <img src="https://img.shields.io/badge/TensorFlow-1a1a1a?style=flat-square&logo=tensorflow&logoColor=ff8c00" />
-  <img src="https://img.shields.io/badge/OpenCV-1a1a1a?style=flat-square&logo=opencv&logoColor=ff8c00" />
-  <img src="https://img.shields.io/badge/scikit--learn-1a1a1a?style=flat-square&logo=scikitlearn&logoColor=ff8c00" />
+  <img src="https://img.shields.io/badge/-PyTorch-000000?style=flat&logo=pytorch&logoColor=FF8C00" />
+  <img src="https://img.shields.io/badge/-TensorFlow-000000?style=flat&logo=tensorflow&logoColor=FF8C00" />
+  <img src="https://img.shields.io/badge/-OpenCV-000000?style=flat&logo=opencv&logoColor=FF8C00" />
+  <img src="https://img.shields.io/badge/-MATLAB-000000?style=flat&logo=mathworks&logoColor=FF8C00" />
 </p>
 
-#### ☁️ Cloud & MLOps Architecture
+#### ☁️ Cloud & Infrastructure
 <p align="left">
-  <img src="https://img.shields.io/badge/GCP_Vertex_AI-1a1a1a?style=flat-square&logo=google-cloud&logoColor=ff8c00" />
-  <img src="https://img.shields.io/badge/Docker-1a1a1a?style=flat-square&logo=docker&logoColor=ff8c00" />
-  <img src="https://img.shields.io/badge/Kubernetes-1a1a1a?style=flat-square&logo=kubernetes&logoColor=ff8c00" />
-  <img src="https://img.shields.io/badge/ONNX-1a1a1a?style=flat-square&logo=onnx&logoColor=ff8c00" />
+  <img src="https://img.shields.io/badge/-GCP-000000?style=flat&logo=google-cloud&logoColor=FF8C00" />
+  <img src="https://img.shields.io/badge/-AWS-000000?style=flat&logo=amazon-aws&logoColor=FF8C00" />
+  <img src="https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker&logoColor=FF8C00" />
+  <img src="https://img.shields.io/badge/-Kubernetes-000000?style=flat&logo=kubernetes&logoColor=FF8C00" />
 </p>
 
 #### ⚡ Backend & Data
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-1a1a1a?style=flat-square&logo=python&logoColor=ff8c00" />
-  <img src="https://img.shields.io/badge/TypeScript-1a1a1a?style=flat-square&logo=typescript&logoColor=ff8c00" />
-  <img src="https://img.shields.io/badge/FastAPI-1a1a1a?style=flat-square&logo=fastapi&logoColor=ff8c00" />
-  <img src="https://img.shields.io/badge/MongoDB-1a1a1a?style=flat-square&logo=mongodb&logoColor=ff8c00" />
+  <img src="https://img.shields.io/badge/-Python-000000?style=flat&logo=python&logoColor=FF8C00" />
+  <img src="https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript&logoColor=FF8C00" />
+  <img src="https://img.shields.io/badge/-FastAPI-000000?style=flat&logo=fastapi&logoColor=FF8C00" />
+  <img src="https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb&logoColor=FF8C00" />
 </p>
 
 ---
 
-### 🌌 Featured Projects
-
-- [cite_start]**[bangalore.now]** Real-time AI urban intelligence platform processing high-velocity streaming data on GCP[cite: 19].
-- [cite_start]**[Lunar Feature Extraction]** Generative AI CycleGAN pipeline extracting latent features from ISRO OSR imagery[cite: 22, 24].
-- [cite_start]**[NewsMe]** Deployed FastAPI + Docker AI news platform serving 200+ weekly users[cite: 27, 28].
-
----
-
-### 📊 GitHub Activity
+### 📊 Engineering Metrics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kaustubh2k5&show_icons=true&theme=dracula&custom_title=Engineering%20Metrics&icon_color=ff8c00&text_color=ffffff&bg_color=1a1a1a&hide_border=true&title_color=ff8c00" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaustubh2k5&layout=compact&theme=dracula&langs_count=5&icon_color=ff8c00&text_color=ffffff&bg_color=1a1a1a&hide_border=true&title_color=ff8c00" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kaustubh2k5&show_icons=true&theme=dracula&icon_color=ff8c00&text_color=ffffff&bg_color=000000&hide_border=true&title_color=ff8c00" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaustubh2k5&layout=compact&theme=dracula&langs_count=5&icon_color=ff8c00&text_color=ffffff&bg_color=000000&hide_border=true&title_color=ff8c00" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kaustubh2k5&theme=dracula&background=1a1a1a&ring=ff8c00&fire=ff8c00&currStreakNum=ff8c00&sideLabels=ffffff&dates=ffffff" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kaustubh2k5&theme=dracula&background=000000&ring=ff8c00&fire=ff8c00&currStreakNum=ff8c00&sideLabels=ffffff&dates=ffffff" />
 </p>
