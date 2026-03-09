@@ -21,13 +21,13 @@
 
 ## 🚀 Currently Working On
 
-- 🏗️ **bangalore.now** — Developing new extensions and performance optimizations for the real-time urban intelligence platform
-- 🔍 **[CodeSaarthi AI](https://www.codesaathiai.in)** — Scaling an agentic platform with AWS Bedrock, DynamoDB, Lambda for repository indexing and graph-based codebase analysis
-- 🧠 **BCI Research** — Refining Siamese Neural Networks for EEG-based classification to improve Brain-Computer Interface accuracy
+- **bangalore.now** — Developing new extensions and performance optimizations for the real-time urban intelligence platform
+- **[CodeSaarthi AI](https://www.codesaathiai.in)** — Scaling an agentic platform with AWS Bedrock, DynamoDB, Lambda for repository indexing and graph-based codebase analysis
+- **BCI Research** — Refining Siamese Neural Networks for EEG-based classification to improve Brain-Computer Interface accuracy
 
 ---
 
-## 🌐 Deployed Projects
+## Deployed Projects
 
 | Project | Live Link | Stack Preview |
 |:--------|:----------|:--------------|
@@ -38,7 +38,7 @@
 
 ---
 
-## 🛠️ Technical Arsenal
+## Technical skillset
 
 ### 🤖 AI & Machine Learning
 <p align="left">
@@ -50,7 +50,7 @@
   <img src="https://img.shields.io/badge/Keras-000000?style=flat-square&logo=keras&logoColor=FF8C00" />
 </p>
 
-### 🧠 Generative AI & LLM
+### Generative AI & LLM
 <p align="left">
   <img src="https://img.shields.io/badge/Google_Gemini-000000?style=flat-square&logo=google&logoColor=FF8C00" />
   <img src="https://img.shields.io/badge/AWS_Bedrock-000000?style=flat-square&logo=amazon-aws&logoColor=FF8C00" />
@@ -59,7 +59,7 @@
   <img src="https://img.shields.io/badge/vLLM-000000?style=flat-square&logoColor=FF8C00" />
 </p>
 
-### ☁️ Cloud & Infrastructure
+### Cloud & Infrastructure
 <p align="left">
   <img src="https://img.shields.io/badge/Google_Cloud-000000?style=flat-square&logo=google-cloud&logoColor=FF8C00" />
   <img src="https://img.shields.io/badge/AWS-000000?style=flat-square&logo=amazon-aws&logoColor=FF8C00" />
@@ -69,7 +69,7 @@
   <img src="https://img.shields.io/badge/Lambda-000000?style=flat-square&logo=aws-lambda&logoColor=FF8C00" />
 </p>
 
-### 🗄️ Databases & Storage
+### Databases & Storage
 <p align="left">
   <img src="https://img.shields.io/badge/Pinecone-000000?style=flat-square&logoColor=FF8C00" />
   <img src="https://img.shields.io/badge/AWS_Neptune-000000?style=flat-square&logo=amazon-aws&logoColor=FF8C00" />
@@ -79,7 +79,7 @@
   <img src="https://img.shields.io/badge/BigQuery-000000?style=flat-square&logo=google-cloud&logoColor=FF8C00" />
 </p>
 
-### 🔧 Development
+### Development
 <p align="left">
   <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=FF8C00" />
   <img src="https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=FF8C00" />
@@ -89,7 +89,7 @@
   <img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=FF8C00" />
 </p>
 
-### 📊 Data Science & MLOps
+### Data Science & MLOps
 <p align="left">
   <img src="https://img.shields.io/badge/Pandas-000000?style=flat-square&logo=pandas&logoColor=FF8C00" />
   <img src="https://img.shields.io/badge/NumPy-000000?style=flat-square&logo=numpy&logoColor=FF8C00" />
@@ -101,7 +101,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## Stats 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Kaustubh2k5&show_icons=true&bg_color=000000&title_color=FF8C00&text_color=ffffff&icon_color=FF8C00&hide_border=true" />
@@ -119,7 +119,7 @@
 - 📜 **Oracle Cloud Infrastructure 2025 AI Foundations Associate** — Certified in AI/ML on OCI
 - 📝 **Research Publication** — Co-authored paper submitted to IEEE Access (under review)
 - 🎓 **Projects Lead** — DataScience Club VITC
-- 👨‍🏫 **Mentor** — Guided 100+ participants in DataScience hackathons
+- 👨‍🏫 **Mentor** — Guided 100+ participants in DataScience hackathons and workshops. regularly create content and present on stage
 
 ---
 
