@@ -77,6 +77,7 @@ Personal portfolio showcasing projects and experience
 </td>
 </tr>
 </table>
+
 ---
 
 ## Technical skillset
@@ -176,7 +177,6 @@ Personal portfolio showcasing projects and experience
   </a>
 </p> -->
 
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Kaustubh2k5&color=orange&style=flat-square&label=Profile+Views" alt="Profile Views" />
