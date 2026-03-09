@@ -103,9 +103,12 @@
 
 ## 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kaustubh2k5&show_icons=true&bg_color=000000&title_color=FF8C00&text_color=ffffff&icon_color=FF8C00&hide_border=true" />
+</p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kaustubh2k5&theme=dark&background=000000&ring=FF8C00&fire=FF8C00&currStreakNum=FF8C00&sideLabels=FF8C00&currStreakLabel=FF8C00&dates=ffffff&stroke=FF8C00&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kaustubh2k5&background=000000&ring=FF8C00&fire=FF8C00&currStreakNum=FF8C00&sideLabels=FF8C00&currStreakLabel=FF8C00&dates=ffffff&stroke=FF8C00&hide_border=true" />
 </p>
 
 ---
