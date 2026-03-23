@@ -7,7 +7,7 @@
 </div>
 
 <p align="center">
-  <em>AI Engineer & Researcher | Cloud Developer | DataScience</em>
+  <em>Learning System Design | Research student | Cloud Development | DataScience</em>
 </p>
 
 <p align="center">
