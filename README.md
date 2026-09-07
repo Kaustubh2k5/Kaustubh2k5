@@ -1,14 +1,16 @@
 <div align="center">
-  <p>F tier larper.</p>
+  <h2>F tier larper.</h2>
 
-  <p><strong>Stuff i know:</strong><br>
-  -> ML<br>
-  -> Backend development (learning)<br>
-  -> Cloud (GCP ACE Cert)</p>
+  <div style="display: inline-block; text-align: left; max-width: 400px; margin: 20px 0;">
+    <p><strong>Stuff I know:</strong><br>
+     -> ML<br>
+     -> Backend development (learning)<br>
+     -> Cloud (GCP ACE Cert)</p>
 
-  <p><strong>Stuff i'm doing:</strong><br>
-  -> Core Infra<br>
-  -> AI and DataScience</p>
+    <p><strong> Stuff I'm doing:</strong><br>
+     -> Core Infra<br>
+     -> AI & Data Science</p>
+  </div>
 
-  <p>I know a some of my System design, lets hop on a call and have a chat !</p>
+  <p><i>I know a bit of System Design. Let's hop on a call and have a chat!</i></p>
 </div>
