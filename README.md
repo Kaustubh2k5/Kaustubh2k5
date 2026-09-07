@@ -2,8 +2,8 @@
   F tier larper.
 
   Stuff i know
-  -> ML
-  -> Backend development (learning)
+  -> ML <\n>
+  -> Backend development (learning) 
   -> Cloud (GCP ACE Cert)
   Stuff i'm doing
   -> Core Infra
